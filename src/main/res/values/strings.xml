@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FetchDataTestPunch</string>
+    <string name="base_currency">AUD: 1.80</string>
+    <string name="basee_currency">AUD:1.00</string>
+    <string name="usd">usd:1.0</string>
+    <string name="gbp">gbp:</string>
+    <string name="nzd">nzd:1.0</string>
+    <string name="eur">eur:1.2</string>
+    <string name="dzd">dzd:1.0</string>
+    <string name="euro">eur:1.0</string>
+</resources>
